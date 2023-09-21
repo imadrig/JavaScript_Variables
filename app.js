@@ -4,7 +4,13 @@ console.log(
 );
 
 // Exercise 1
+let lastName = "Doe";
+var age = 89;
 
 // Exercise 2
+const firstName = "Jane";
 
 // Exercise 3
+let language = "JavaScript";
+let createdYear = 1995;
+let isCaseSensitive = true;
